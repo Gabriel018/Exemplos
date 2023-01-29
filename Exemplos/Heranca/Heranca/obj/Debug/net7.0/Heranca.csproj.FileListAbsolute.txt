@@ -1,0 +1,15 @@
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfo.cs
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\bin\Debug\net7.0\Heranca.exe
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\bin\Debug\net7.0\Heranca.deps.json
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\bin\Debug\net7.0\Heranca.runtimeconfig.json
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\bin\Debug\net7.0\Heranca.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\bin\Debug\net7.0\Heranca.pdb
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\Heranca.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\refint\Heranca.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\Heranca.pdb
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\Heranca.genruntimeconfig.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Heranca\Heranca\obj\Debug\net7.0\ref\Heranca.dll
