@@ -1,0 +1,15 @@
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\bin\Debug\net7.0\Exemploabstrato.exe
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\bin\Debug\net7.0\Exemploabstrato.deps.json
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\bin\Debug\net7.0\Exemploabstrato.runtimeconfig.json
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\bin\Debug\net7.0\Exemploabstrato.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\bin\Debug\net7.0\Exemploabstrato.pdb
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\Exemploabstrato.csproj.AssemblyReference.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\Exemploabstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\Exemploabstrato.AssemblyInfoInputs.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\Exemploabstrato.AssemblyInfo.cs
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\Exemploabstrato.csproj.CoreCompileInputs.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\Exemploabstrato.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\refint\Exemploabstrato.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\Exemploabstrato.pdb
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\Exemploabstrato.genruntimeconfig.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Exemploabstrato\Exemploabstrato\obj\Debug\net7.0\ref\Exemploabstrato.dll

@@ -1,0 +1,15 @@
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\bin\Debug\net7.0\Get_Set.exe
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\bin\Debug\net7.0\Get_Set.deps.json
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\bin\Debug\net7.0\Get_Set.runtimeconfig.json
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\bin\Debug\net7.0\Get_Set.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\bin\Debug\net7.0\Get_Set.pdb
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\Get_Set.csproj.AssemblyReference.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\Get_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\Get_Set.AssemblyInfoInputs.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\Get_Set.AssemblyInfo.cs
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\Get_Set.csproj.CoreCompileInputs.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\Get_Set.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\refint\Get_Set.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\Get_Set.pdb
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\Get_Set.genruntimeconfig.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Get_Set\obj\Debug\net7.0\ref\Get_Set.dll

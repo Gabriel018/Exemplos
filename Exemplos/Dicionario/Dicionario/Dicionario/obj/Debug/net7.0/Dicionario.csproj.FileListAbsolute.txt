@@ -1,0 +1,15 @@
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\bin\Debug\net7.0\Dicionario.exe
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\bin\Debug\net7.0\Dicionario.deps.json
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\bin\Debug\net7.0\Dicionario.runtimeconfig.json
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\bin\Debug\net7.0\Dicionario.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\bin\Debug\net7.0\Dicionario.pdb
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\Dicionario.csproj.AssemblyReference.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\Dicionario.AssemblyInfoInputs.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\Dicionario.AssemblyInfo.cs
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\Dicionario.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\refint\Dicionario.dll
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\Dicionario.pdb
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\Dicionario.genruntimeconfig.cache
+C:\Users\Duke\Desktop\Programacao\ExemplosC-\Exemplos\Dicionario\Dicionario\Dicionario\obj\Debug\net7.0\ref\Dicionario.dll

@@ -24,19 +24,10 @@ namespace Heranca
 
          public string Situacao()
         {
-            if (situaçao_empresa)
-            {
-                return  "Ativo";
-
-            }
-            else
-            {
-                return "Desligado";
-            }
+            return (situaçao_empresa ? "sim" : "nao");
             
         }
 
-         
          public class Cadastro : Funcionario
         {
            public string nome;
